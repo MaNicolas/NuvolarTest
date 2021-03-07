@@ -15,7 +15,7 @@ import com.amazon.pages.WelcomePageObject;
 public class AutomationExercise extends TestUtilities {
 
 	@Parameters({ "firstItem", "quantity1", "secondItem", "quantity2" })
-	@Test(invocationCount = 10)
+	@Test(invocationCount = 1)
 	public void scenarioUsingParameters(String firstItem, int quantity1, String secondItem, int quantity2) {
 		log.info("Starting scenario!");
 		Reporter.log("Starting scenario!");
