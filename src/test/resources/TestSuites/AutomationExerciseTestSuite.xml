@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AutomationExerciseTestSuite" verbose="1" parallel="tests" thread-count="2">
+
+	<test name="AutomationExerciseUsingChrome">
+		<parameter name="browser" value="chrome" />
+		<parameter name="firstItem" value="hats for men" />
+		<parameter name="quantity1" value="2" />
+		<parameter name="secondItem" value="hats for women" />
+		<parameter name="quantity2" value="1" />
+		<classes>
+			<class name="com.amazon.automationExercice.AutomationExercise" />
+		</classes>
+	</test>
+	
+<!-- 	<test name="AutomationExerciseUsingFirefox"> -->
+<!-- 		<parameter name="browser" value="firefox" /> -->
+<!-- 		<parameter name="firstItem" value="hats for men" /> -->
+<!-- 		<parameter name="quantity1" value="2" /> -->
+<!-- 		<parameter name="secondItem" value="hats for women" /> -->
+<!-- 		<parameter name="quantity2" value="1" /> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.amazon.automationExercice.AutomationExercise" /> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+
+</suite>
