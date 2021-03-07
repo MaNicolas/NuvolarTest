@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
     <line>
       <![CDATA[Create driver: chrome]]>
     </line>
@@ -17,16 +20,40 @@
       <![CDATA[Searching for item: 'hats for men'.]]>
     </line>
     <line>
-      <![CDATA[User needs to select a size!]]>
+      <![CDATA[Starting scenario!]]>
     </line>
     <line>
-      <![CDATA[Hat's price is: 10.36€]]>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
     </line>
     <line>
-      <![CDATA[Size is available AND sold by amazon!]]>
+      <![CDATA[Page opened!]]>
     </line>
     <line>
-      <![CDATA[Hat's price is: 10.36€]]>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
     </line>
     <line>
       <![CDATA[Add item(s) to cart!]]>
@@ -35,7 +62,241 @@
       <![CDATA[There is a total of : 2 items in the cart.]]>
     </line>
     <line>
-      <![CDATA[Total price in cart is : 20.72€]]>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 13.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 73.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 43.98€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
     </line>
     <line>
       <![CDATA[Searching for item: 'hats for women'.]]>
@@ -53,7 +314,7 @@
       <![CDATA[There is a total of : 3 items in the cart.]]>
     </line>
     <line>
-      <![CDATA[Total price in cart is : 36.17€]]>
+      <![CDATA[Total price in cart is : 75.43€]]>
     </line>
     <line>
       <![CDATA[Change item's quantity from 2 to 1.]]>
@@ -62,15 +323,864 @@
       <![CDATA[There is a total of : 2 items in the cart.]]>
     </line>
     <line>
-      <![CDATA[Total price in cart is : 25.81€]]>
+      <![CDATA[Total price in cart is : 45.44€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 13.99€]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 73.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 43.98€]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 13.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 73.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 43.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 13.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 73.97€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 43.98€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.45€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.43€]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.44€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.45€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.43€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.44€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 13.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 73.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 43.98€]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: chrome]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Create driver: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Starting scenario!]]>
+    </line>
+    <line>
+      <![CDATA[Opening page: https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Page opened!]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for men'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 29.99€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 59.98€]]>
+    </line>
+    <line>
+      <![CDATA[Searching for item: 'hats for women'.]]>
+    </line>
+    <line>
+      <![CDATA[Hat has only one size!]]>
+    </line>
+    <line>
+      <![CDATA[Hat's price is: 15.99€]]>
+    </line>
+    <line>
+      <![CDATA[Item is not available yet! Ordering it now!]]>
+    </line>
+    <line>
+      <![CDATA[Add item(s) to cart!]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 3 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 75.97€]]>
+    </line>
+    <line>
+      <![CDATA[Change item's quantity from 2 to 1.]]>
+    </line>
+    <line>
+      <![CDATA[There is a total of : 2 items in the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Total price in cart is : 45.98€]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-03-05T16:34:46Z" name="AutomationExerciseTestSuite" finished-at="2021-03-05T16:35:15Z" duration-ms="29602">
+  <suite started-at="2021-03-07T09:49:23Z" name="AutomationExerciseTestSuite" finished-at="2021-03-07T09:54:56Z" duration-ms="333460">
     <groups>
     </groups>
-    <test started-at="2021-03-05T16:34:46Z" name="AutomationExerciseUsingChrome" finished-at="2021-03-05T16:35:15Z" duration-ms="29602">
+    <test started-at="2021-03-07T09:49:23Z" name="AutomationExerciseUsingChrome" finished-at="2021-03-07T09:54:40Z" duration-ms="317958">
       <class name="com.amazon.automationExercice.AutomationExercise">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-05T16:34:46Z" name="setup" finished-at="2021-03-05T16:34:48Z" duration-ms="1643" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:23Z" name="setup" finished-at="2021-03-07T09:49:25Z" duration-ms="1580" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -84,7 +1194,7 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[org.testng.TestRunner@71e693fa]]>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
               </value>
             </param>
           </params>
@@ -94,7 +1204,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-05T16:34:48Z" name="scenarioUsingParameters" finished-at="2021-03-05T16:35:15Z" duration-ms="27421" status="PASS">
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:25Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:49:54Z" duration-ms="29508" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -131,16 +1241,10 @@
               <![CDATA[Searching for item: 'hats for men'.]]>
             </line>
             <line>
-              <![CDATA[User needs to select a size!]]>
+              <![CDATA[Hat has only one size!]]>
             </line>
             <line>
-              <![CDATA[Hat's price is: 10.36€]]>
-            </line>
-            <line>
-              <![CDATA[Size is available AND sold by amazon!]]>
-            </line>
-            <line>
-              <![CDATA[Hat's price is: 10.36€]]>
+              <![CDATA[Hat's price is: 29.99€]]>
             </line>
             <line>
               <![CDATA[Add item(s) to cart!]]>
@@ -149,7 +1253,248 @@
               <![CDATA[There is a total of : 2 items in the cart.]]>
             </line>
             <line>
-              <![CDATA[Total price in cart is : 20.72€]]>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:54Z" name="takeScreenshot" finished-at="2021-03-07T09:49:54Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:54Z" name="tearDown" finished-at="2021-03-07T09:49:55Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:55Z" name="setup" finished-at="2021-03-07T09:49:56Z" duration-ms="1344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:49:56Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:50:24Z" duration-ms="27721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 13.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 73.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 43.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:24Z" name="takeScreenshot" finished-at="2021-03-07T09:50:24Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:24Z" name="tearDown" finished-at="2021-03-07T09:50:25Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:25Z" name="setup" finished-at="2021-03-07T09:50:26Z" duration-ms="1372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:26Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:50:55Z" duration-ms="28681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
             </line>
             <line>
               <![CDATA[Searching for item: 'hats for women'.]]>
@@ -167,7 +1512,7 @@
               <![CDATA[There is a total of : 3 items in the cart.]]>
             </line>
             <line>
-              <![CDATA[Total price in cart is : 36.17€]]>
+              <![CDATA[Total price in cart is : 75.43€]]>
             </line>
             <line>
               <![CDATA[Change item's quantity from 2 to 1.]]>
@@ -176,11 +1521,11 @@
               <![CDATA[There is a total of : 2 items in the cart.]]>
             </line>
             <line>
-              <![CDATA[Total price in cart is : 25.81€]]>
+              <![CDATA[Total price in cart is : 45.44€]]>
             </line>
           </reporter-output>
         </test-method> <!-- scenarioUsingParameters -->
-        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-05T16:35:15Z" name="takeScreenshot" finished-at="2021-03-05T16:35:15Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:55Z" name="takeScreenshot" finished-at="2021-03-07T09:50:55Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -191,11 +1536,2068 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-05T16:35:15Z" name="tearDown" finished-at="2021-03-05T16:35:15Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:55Z" name="tearDown" finished-at="2021-03-07T09:50:55Z" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:55Z" name="setup" finished-at="2021-03-07T09:50:57Z" duration-ms="1282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:50:57Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:51:28Z" duration-ms="31452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:51:28Z" name="takeScreenshot" finished-at="2021-03-07T09:51:28Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:51:28Z" name="tearDown" finished-at="2021-03-07T09:51:29Z" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:51:29Z" name="setup" finished-at="2021-03-07T09:51:30Z" duration-ms="1352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:51:30Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:52:00Z" duration-ms="29500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:00Z" name="takeScreenshot" finished-at="2021-03-07T09:52:00Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:00Z" name="tearDown" finished-at="2021-03-07T09:52:00Z" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:00Z" name="setup" finished-at="2021-03-07T09:52:02Z" duration-ms="1285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:02Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:52:34Z" duration-ms="32377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:34Z" name="takeScreenshot" finished-at="2021-03-07T09:52:34Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:34Z" name="tearDown" finished-at="2021-03-07T09:52:35Z" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:35Z" name="setup" finished-at="2021-03-07T09:52:36Z" duration-ms="1306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:52:36Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:53:03Z" duration-ms="27216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 13.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 73.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 43.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:03Z" name="tearDown" finished-at="2021-03-07T09:53:04Z" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:03Z" name="takeScreenshot" finished-at="2021-03-07T09:53:03Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:04Z" name="setup" finished-at="2021-03-07T09:53:05Z" duration-ms="1415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:05Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:53:34Z" duration-ms="28355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:34Z" name="takeScreenshot" finished-at="2021-03-07T09:53:34Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:34Z" name="tearDown" finished-at="2021-03-07T09:53:35Z" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:35Z" name="setup" finished-at="2021-03-07T09:53:36Z" duration-ms="1354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:53:36Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:54:02Z" duration-ms="26416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 13.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 73.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 43.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:02Z" name="takeScreenshot" finished-at="2021-03-07T09:54:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:02Z" name="tearDown" finished-at="2021-03-07T09:54:03Z" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:03Z" name="setup" finished-at="2021-03-07T09:54:04Z" duration-ms="1367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:04Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:54:40Z" duration-ms="35264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:40Z" name="takeScreenshot" finished-at="2021-03-07T09:54:40Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@544d57e]" started-at="2021-03-07T09:54:40Z" name="tearDown" finished-at="2021-03-07T09:54:40Z" duration-ms="746" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.amazon.automationExercice.AutomationExercise -->
     </test> <!-- AutomationExerciseUsingChrome -->
+    <test started-at="2021-03-07T09:49:23Z" name="AutomationExerciseUsingFirefox" finished-at="2021-03-07T09:54:56Z" duration-ms="333460">
+      <class name="com.amazon.automationExercice.AutomationExercise">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:49:23Z" name="setup" finished-at="2021-03-07T09:49:28Z" duration-ms="5431" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:49:28Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:49:56Z" duration-ms="27973" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:49:56Z" name="tearDown" finished-at="2021-03-07T09:49:58Z" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:49:56Z" name="takeScreenshot" finished-at="2021-03-07T09:49:56Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:49:58Z" name="setup" finished-at="2021-03-07T09:50:03Z" duration-ms="4534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:50:03Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:50:29Z" duration-ms="26461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:50:29Z" name="takeScreenshot" finished-at="2021-03-07T09:50:29Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:50:29Z" name="tearDown" finished-at="2021-03-07T09:50:32Z" duration-ms="2313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:50:32Z" name="setup" finished-at="2021-03-07T09:50:36Z" duration-ms="4568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:50:36Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:51:01Z" duration-ms="24577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 13.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 73.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 43.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:01Z" name="takeScreenshot" finished-at="2021-03-07T09:51:01Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:01Z" name="tearDown" finished-at="2021-03-07T09:51:03Z" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:03Z" name="setup" finished-at="2021-03-07T09:51:07Z" duration-ms="4548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:07Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:51:33Z" duration-ms="25334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 13.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 73.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 43.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:33Z" name="takeScreenshot" finished-at="2021-03-07T09:51:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:33Z" name="tearDown" finished-at="2021-03-07T09:51:35Z" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:35Z" name="setup" finished-at="2021-03-07T09:51:40Z" duration-ms="4538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:51:40Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:52:09Z" duration-ms="29036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:09Z" name="tearDown" finished-at="2021-03-07T09:52:11Z" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:09Z" name="takeScreenshot" finished-at="2021-03-07T09:52:09Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:11Z" name="setup" finished-at="2021-03-07T09:52:15Z" duration-ms="4546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:15Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:52:43Z" duration-ms="27863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:43Z" name="tearDown" finished-at="2021-03-07T09:52:45Z" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:43Z" name="takeScreenshot" finished-at="2021-03-07T09:52:43Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:45Z" name="setup" finished-at="2021-03-07T09:52:50Z" duration-ms="4521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:52:50Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:53:17Z" duration-ms="27068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.45€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.43€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.44€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:17Z" name="takeScreenshot" finished-at="2021-03-07T09:53:17Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:17Z" name="tearDown" finished-at="2021-03-07T09:53:19Z" duration-ms="2184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:19Z" name="setup" finished-at="2021-03-07T09:53:24Z" duration-ms="4542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:24Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:53:49Z" duration-ms="25292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.45€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.43€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.44€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:49Z" name="takeScreenshot" finished-at="2021-03-07T09:53:49Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:49Z" name="tearDown" finished-at="2021-03-07T09:53:51Z" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:51Z" name="setup" finished-at="2021-03-07T09:53:56Z" duration-ms="4553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:53:56Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:54:23Z" duration-ms="26725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:23Z" name="takeScreenshot" finished-at="2021-03-07T09:54:23Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:23Z" name="tearDown" finished-at="2021-03-07T09:54:25Z" duration-ms="2296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:25Z" name="setup" finished-at="2021-03-07T09:54:29Z" duration-ms="4523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.automationExercice.AutomationExercise.scenarioUsingParameters(java.lang.String,int,java.lang.String,int)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@2141a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Create driver: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:29Z" name="scenarioUsingParameters" finished-at="2021-03-07T09:54:54Z" duration-ms="24661" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hats for men]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hats for women]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting scenario!]]>
+            </line>
+            <line>
+              <![CDATA[Opening page: https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Page opened!]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for men'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 29.99€]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 59.98€]]>
+            </line>
+            <line>
+              <![CDATA[Searching for item: 'hats for women'.]]>
+            </line>
+            <line>
+              <![CDATA[Hat has only one size!]]>
+            </line>
+            <line>
+              <![CDATA[Hat's price is: 15.99€]]>
+            </line>
+            <line>
+              <![CDATA[Item is not available yet! Ordering it now!]]>
+            </line>
+            <line>
+              <![CDATA[Add item(s) to cart!]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 3 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 75.97€]]>
+            </line>
+            <line>
+              <![CDATA[Change item's quantity from 2 to 1.]]>
+            </line>
+            <line>
+              <![CDATA[There is a total of : 2 items in the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Total price in cart is : 45.98€]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenarioUsingParameters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:54Z" name="tearDown" finished-at="2021-03-07T09:54:56Z" duration-ms="1864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="takeScreenshot(org.testng.ITestResult)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f]" started-at="2021-03-07T09:54:54Z" name="takeScreenshot" finished-at="2021-03-07T09:54:54Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scenarioUsingParameters status=SUCCESS method=AutomationExercise.scenarioUsingParameters(java.lang.String, int, java.lang.String, int)[pri:0, instance:com.amazon.automationExercice.AutomationExercise@68f1b17f] output=Starting scenario!]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+      </class> <!-- com.amazon.automationExercice.AutomationExercise -->
+    </test> <!-- AutomationExerciseUsingFirefox -->
   </suite> <!-- AutomationExerciseTestSuite -->
 </testng-results>

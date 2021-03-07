@@ -43,6 +43,6 @@ public class BaseTest {
 	public void tearDown() {
 		// Close browser
 		log.info("Closing browser");
-		//driver.quit();
+		driver.quit();
 	}
 }

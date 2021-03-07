@@ -8,10 +8,12 @@ import org.testng.ITestResult;
 
 public class TestListener implements ITestListener {
 
+	//Variables
 	Logger log;
 	String testName;
 	String testMethodName;
 	
+	//Methods
 	@Override
 	public void onTestStart(ITestResult result) {
 		this.testMethodName = result.getMethod().getMethodName();
@@ -49,5 +51,4 @@ public class TestListener implements ITestListener {
 	public void onFinish(ITestContext context) {
 		log.info("[ALL " + testName + " FINISHED]");
 	}
-
 }
