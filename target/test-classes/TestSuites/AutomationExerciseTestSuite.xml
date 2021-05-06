@@ -1,4 +1,4 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="AutomationExerciseTestSuite" verbose="1" parallel="tests" thread-count="2">
 
@@ -8,20 +8,23 @@
 		<parameter name="quantity1" value="2" />
 		<parameter name="secondItem" value="hats for women" />
 		<parameter name="quantity2" value="1" />
+		<parameter name="quantityToSet" value="1" />
 		<classes>
 			<class name="com.amazon.automationExercice.AutomationExercise" />
 		</classes>
 	</test>
 	
-	<test name="AutomationExerciseUsingFirefox">
-		<parameter name="browser" value="firefox" />
-		<parameter name="firstItem" value="hats for men" />
-		<parameter name="quantity1" value="2" />
-		<parameter name="secondItem" value="hats for women" />
-		<parameter name="quantity2" value="1" />
-		<classes>
-			<class name="com.amazon.automationExercice.AutomationExercise" />
-		</classes>
-	</test>
+<!-- 	<test name="AutomationExerciseUsingFirefox"> -->
+<!-- 		<parameter name="browser" value="firefox" /> -->
+<!-- 		<parameter name="firstItem" value="hats for men" /> -->
+<!-- 		<parameter name="quantity1" value="2" /> -->
+<!-- 		<parameter name="secondItem" value="hats for women" /> -->
+<!-- 		<parameter name="quantity2" value="1" /> -->
+<!-- 		<parameter name="quantityToChange" value="2" /> -->
+<!-- 		<parameter name="quantityToSet" value="1" /> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.amazon.automationExercice.AutomationExercise" /> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
 
 </suite>

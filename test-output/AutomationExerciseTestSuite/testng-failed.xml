@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite thread-count="2" parallel="tests" name="Failed suite [AutomationExerciseTestSuite]" guice-stage="DEVELOPMENT">
-  <test thread-count="2" parallel="tests" name="AutomationExerciseUsingFirefox(failed)">
+  <test thread-count="2" parallel="tests" name="AutomationExerciseUsingChrome(failed)">
     <parameter name="quantity1" value="2"/>
     <parameter name="quantity2" value="1"/>
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="quantityToSet" value="1"/>
     <parameter name="secondItem" value="hats for women"/>
     <parameter name="firstItem" value="hats for men"/>
     <classes>
@@ -12,10 +13,10 @@
         <methods>
           <include name="takeScreenshot"/>
           <include name="setup"/>
-          <include name="scenarioUsingParameters" invocation-numbers="0"/>
           <include name="tearDown"/>
+          <include name="scenarioUsingParameters" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.amazon.automationExercice.AutomationExercise -->
     </classes>
-  </test> <!-- AutomationExerciseUsingFirefox(failed) -->
+  </test> <!-- AutomationExerciseUsingChrome(failed) -->
 </suite> <!-- Failed suite [AutomationExerciseTestSuite] -->
