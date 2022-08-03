@@ -2,9 +2,7 @@
 
 Hi,
 
-First of all, thanks a lot for this test. I had a lof of fun doing it.
 Here is a small documentation regarding the setup required and how to launch the tests.
-Please let me know should anything remains unclear.
 
 In order to run the test, you'll need the following setup:
 - Java version 1.8.0
@@ -32,10 +30,9 @@ Please note that throughout my code, you will find those 2 lines:
 log.info("This line is for the console");
 Reporter.log("This one is for the report in html");
 
-I usually only use the "log.info", but I left both of them for your convenience so you can see the logs wherever you want.
+I usually only use the "log.info", but I left both of them so you can see the logs wherever you want.
 
 Finally, if you wish to run the test many times automatically, I left the "@Test(invocationCount = X)" parameter available above the test method's name.
 Just edit this parameter to your liking.
 
-That's it! Thanks for reading me :)
 Nicolas
